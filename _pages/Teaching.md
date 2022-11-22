@@ -1,3 +1,11 @@
+---
+layout: archive
+title: "Teaching"
+permalink: /teaching/
+author_profile: true
+redirect_from: 
+    - /teaching
+---
 Fall 2022
 ====
 ##EBIO 1230 
