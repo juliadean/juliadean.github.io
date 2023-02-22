@@ -20,6 +20,9 @@ Graduate Application Assistance
 ======
 As a second-career graduate student, I completely understand how difficult it is to feel confident applying to grad school at any stage of life, but especially after time away. I would be happy to read/review materials, talk about careers or graduate life, or share my own materials!
 
+Updates 
+====
+I recently found out that I received an offer to continue into the PhD here at CU in the Information Science department! I will be coadvised by Dr. Amy Voida and Dr. Bryan Semaan. I am thrilled to continue my academic journey here!
 
 
 
