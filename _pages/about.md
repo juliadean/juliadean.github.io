@@ -10,7 +10,7 @@ redirect_from:
 
 About
 ======
-Hello! My name is Julia Dean, and I am a first year Master's student at the University of Colorado, Boulder. I am advised by [Dr. Amy Voida](https://amy.voida.com/) in the Philanthropic Informatics Lab. My research is focused on the digital landscape for immigrants and refugees in the United States, the role of digital identity to societal newcomers, and critical HCI. You can read about my current projects [here](https://juliaarthur3.github.io/research/). 
+Hello! My name is Julia Dean, and I am a first year PhD student at the University of Colorado, Boulder. I am co-advised by [Dr. Amy Voida](https://amy.voida.com/) and [Dr. Bryan Semaan](https://www.theadalab.com/). My research is focused on the digital landscape for immigrants and refugees in the United States, the role of digital identity to societal newcomers, accessible information gatehring, and critical HCI. You can read about my current projects [here](https://juliaarthur3.github.io/research/).
 
 Before starting at CU, I worked primarily at nonprofits and technology startups. My career included working with people with disabilities to find gainful employment, J-1 visa sponsorship to the United States, insurance technology, and creative tools. Prior to that, I received a dual undergraduate degree in International Affairs and Spanish/Portuguese. 
 
@@ -18,11 +18,11 @@ In my free time, you can find me [trail running](https://www.strava.com/athletes
 
 Graduate Application Assistance
 ======
-As a second-career graduate student, I completely understand how difficult it is to feel confident applying to grad school at any stage of life, but especially after time away. I would be happy to read/review materials, talk about careers or graduate life, or share my own materials!
+As a second-career graduate student, I completely understand how difficult it is to feel confident applying to grad school at any stage of life, especially after time away. I would be happy to read/review materials, talk about careers or graduate life, or share my own materials!
 
 Updates 
 ====
-I recently found out that I received an offer to continue into the PhD here at CU in the Information Science department! I will be coadvised by Dr. Amy Voida and Dr. Bryan Semaan. I am thrilled to continue my academic journey here!
+Spring 2023: After starting my Master's degrede at CU, I recently found out that I received an offer to continue into the PhD here at CU in the Information Science department! I will be coadvised by Dr. Amy Voida and Dr. Bryan Semaan. I am thrilled to continue my academic journey here!
 
 
 
