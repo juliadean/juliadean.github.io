@@ -22,7 +22,7 @@ As a second-career graduate student, I completely understand how difficult it is
 
 Updates 
 ====
-Spring 2023: After starting my Master's degrede at CU, I recently found out that I received an offer to continue into the PhD here at CU in the Information Science department! I will be coadvised by Dr. Amy Voida and Dr. Bryan Semaan. I am thrilled to continue my academic journey here!
+Spring 2023: After starting my Master's degree at CU, I recently found out that I received an offer to continue into the PhD here at CU in the Information Science department! I will be coadvised by Dr. Amy Voida and Dr. Bryan Semaan. I am thrilled to continue my academic journey here!
 
 
 
