@@ -11,9 +11,9 @@ title                    : "Julia Dean"
 title_separator          : "-"
 name                     : &name "Julia Dean"
 description              : &description "Information Science PhD Student at CU Boulder"
-url                      : https://juliaarthur3.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://juliadean.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "juliaarthur3/juliaarthur3.github.io"
+repository               : "juliadean/juliadean.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "juliaarthur3"
+  github           : "juliadean"
   google_plus      :
   keybase          :
   instagram        :
