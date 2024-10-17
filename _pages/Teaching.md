@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 redirect_from: 
     - /teaching
-
+---
 # Fall 2024
 
 ## Information Ecosystems (Teaching Assistant)
