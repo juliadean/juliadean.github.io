@@ -6,7 +6,7 @@ author_profile: true
 redirect_from: 
     - /teaching
 ---
-##Spring 2025
+## Spring 2025
 
 ### INFO 2131 - Information Ecosystems (Graduate Part-Time Instructor)
 
