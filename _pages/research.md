@@ -9,8 +9,8 @@ redirect_from:
 
 Current Projects
 ====
-### Socio-Computational Ecosystem of Immigrants
-This work aims to understand the information and communication technology network of migrants in the United States, especially during their immigration and naturalization process, to understand how to design better technical ecosystems for societal newcomers. We are currently finishing up this work in progress - stay tuned!
+### Socio-Computational Ecosystem of Organizations that Support Resettlement
+This work aims to understand the information and communication technology network of organizations who support migrants in the United States, especially during their immigration and naturalization process, to understand how to design better technical ecosystems for organizations and societal newcomers. We are currently finishing up this work in progress - stay tuned!
 
 ### Positionality in HCI
  I am currently working with [Dylan Doyle-Burke](https://dylanthomasdoyle.com/) and [Dr. Bryan Semaan](https://www.colorado.edu/cmci/people/information-science/bryan-semaan) on a qualitative analysis of positionality statements on papers published in primarily CHI and CSCW. We are hoping to establish more norms and establish patterns of how, when, and why authors write them. 
