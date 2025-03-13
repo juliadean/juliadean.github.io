@@ -10,7 +10,7 @@ redirect_from:
 
 About
 ======
-Hello! My name is Julia Dean, and I am a second year PhD student at the University of Colorado, Boulder. I am co-advised by [Dr. Amy Voida](https://amy.voida.com/) and [Dr. Bryan Semaan](https://www.theadalab.com/). My research is focused on the digital landscape for immigrants and refugees in the United States, the role of digital identity to societal newcomers, accessible information gathering, and critical HCI. You can read about my current projects [here](https://juliaarthur3.github.io/research/).
+Hello! My name is Julia Dean, and I am a second year PhD student at the University of Colorado, Boulder. I am co-advised by [Dr. Amy Voida](https://amy.voida.com/) and [Dr. Bryan Semaan](https://www.theadalab.com/). My research is focused on how organizations collaborate to support their clients, the role of digital identity to societal newcomers, accessible information gathering, and critical HCI. You can read about my current projects [here](https://juliaarthur3.github.io/research/).
 
 Before starting at CU, I worked primarily at nonprofits and technology startups. My career included working with people with disabilities to find gainful employment, J-1 visa sponsorship to the United States, insurance technology, and creative tools. Prior to that, I received a dual undergraduate degree in International Affairs and Spanish/Portuguese. 
 
