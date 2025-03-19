@@ -22,6 +22,8 @@ As a second-career graduate student, I completely understand how difficult it is
 
 Updates 
 ====
+*_November 2024_*: I attended CSCW 2024 in San Jose, Costa Rica!
+
 *August 2024*: My advisors were awarded an NSF IIS-HCC Medium grant to fund mine and my colleagues work on migration in the US!
 
 *May 2024*: I attended my first conference this year  - CHI 2024!
